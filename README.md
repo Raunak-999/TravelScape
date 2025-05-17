@@ -104,28 +104,5 @@ src/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🏆 Hackathon Details
-
-- **Event**: Frontend Development Hackathon
-- **Team**: [Your Team Name]
-- **Duration**: [Hackathon Duration]
-- **Theme**: Travel & Tourism Technology
-
-## 👥 Team Members
-
-- [Your Name] - Lead Developer
-- [Add other team members if any]
-
-## 🌟 Acknowledgments
-
-- Special thanks to all hackathon organizers and mentors
-- Inspired by modern travel planning needs
-- Built with ❤️ using React and TypeScript
-
----
 
 Made with 💻 for the Frontend Hackathon 
